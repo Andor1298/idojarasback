@@ -1,0 +1,42 @@
+[
+  {
+    "userId": 2,
+    "date": "2025-10-05",
+    "minFok": 3,
+    "maxFok": 3,
+    "idojarasAdat": "cloudy",
+    "id": 3
+  },
+  {
+    "userId": 2,
+    "date": "2025-10-06",
+    "minFok": 1,
+    "maxFok": 10,
+    "idojarasAdat": "rainy",
+    "id": 4
+  },
+  {
+    "userId": 1,
+    "date": "2025-10-05",
+    "minFok": 3,
+    "maxFok": 30,
+    "idojarasAdat": "sunny",
+    "id": 5
+  },
+  {
+    "userId": 1,
+    "date": "2025-10-06",
+    "minFok": -10,
+    "maxFok": 1,
+    "idojarasAdat": "snowy",
+    "id": 6
+  },
+  {
+    "userId": 1,
+    "date": "2025-10-07",
+    "minFok": 3,
+    "maxFok": 20,
+    "idojarasAdat": "rainy",
+    "id": 7
+  }
+]
